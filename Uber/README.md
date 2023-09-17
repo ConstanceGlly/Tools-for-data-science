@@ -10,14 +10,12 @@ This Streamlit app allows you to explore a public Uber dataset for pickups and d
 
 Before running the app, make sure you have Streamlit installed. You can install it using pip:
 
-```bash
-pip install streamlit 
+`pip install streamlit`
 
 Running the App
 To run the app, open your terminal/command prompt and navigate to the project directory containing uber_pickups.py. Then run the following command:
 
-```bash
-streamlit run uber_pickups.py
+`streamlit run uber_pickups.py`
 The app will automatically open in a new tab in your web browser.
 
 ###Features
@@ -31,7 +29,7 @@ The app leverages Streamlit's caching feature to optimize data loading. Data is 
 ### Deployment
 You can easily deploy your Streamlit app using Streamlit Community Cloud. Follow the steps outlined in the Streamlit Community Cloud documentation to share your app with the world.
 
-### Get Help
+## Get Help
 If you encounter any issues or have questions about using Streamlit, here are some resources:
 
 ### source and documentation
