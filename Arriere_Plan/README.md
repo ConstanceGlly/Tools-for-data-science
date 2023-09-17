@@ -1,7 +1,7 @@
 # Suppression de l'arrière plan
 
 ## USAGE
-Importer une image pour en retirer l'arrière plan. 
+Importer une image pour en retirer l'arrière plan. et la modifier notamment le contraste et l'exposition
 
 ## PREREQUISITES
 Pour déployer correctement l'application entrer "pip install -r requirements.txt" préalablement pour installer les librairies python requises et penser à créer un environnement dédié. 
